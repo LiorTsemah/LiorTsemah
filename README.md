@@ -38,7 +38,9 @@ Here you can find a selection of academic projects I've developed during my Comp
 
 ---
 
-## 📫 Contact
+Thanks for visiting my profile!
+
+## 📫 Get in Touch
 
 - **LinkedIn:** [lior-tsemah](https://www.linkedin.com/in/lior-tsemah-625758377/)  
 - **GitHub:** [LiorTsemah](https://github.com/LiorTsemah/portfolio)
