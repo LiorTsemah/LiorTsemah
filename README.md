@@ -1,4 +1,4 @@
-# Hi, I'm Lior Tsemah! 👋
+# Hi, I'm Lior Tsemah! 
 
 I'm a Computer Science student at Tel Aviv University, passionate about algorithms, data structures, and system-level programming.  
 Here you'll find a selection of my academic projects showcasing my skills and growth.
