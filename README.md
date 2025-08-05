@@ -1,16 +1,41 @@
-## Hi there 👋
+# 💼 Lior Tsemah – Projects Portfolio
 
-<!--
-**LiorTsemah/LiorTsemah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio!  
+Here you can find a selection of academic projects I've developed during my Computer Science studies at Tel Aviv University. Each project demonstrates different aspects of data structures, algorithms, and system-level programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Clustering Algorithm – Symmetric Non-negative Matrix Factorization (symNMF)
+- **Languages:** Python & C  
+- **Description:**  
+  A hybrid project combining **Python** (for data preprocessing and visualization) and **C** (for performance-critical matrix operations). Implemented a full pipeline for clustering using **symNMF**, including comparison to K-Means clustering.
+- **Collaboration:** This project was done in collaboration with student Noy Netanel.
+- **Repo:** [symNMF Clustering – software_project](https://github.com/LiorTsemah/software_project)
+
+---
+
+## 🌲 AVL Tree Implementation
+- **Language:** Python  
+- **Description:**  
+  A self-balancing binary search tree (AVL Tree) that maintains logarithmic height. Supports insertions, deletions, rotations, and balance checking.
+- **Collaboration:** This project was done in collaboration with student Ella Bar.
+- **Repo:** [AVL Tree – DataStructuresE01](https://github.com/LiorTsemah/DataStructuresE01)
+
+---
+
+## ♻️ Binomial Heap Implementation
+- **Language:** Java  
+- **Description:**  
+  Implementation of a **binomial heap**, a data structure optimized for merging and priority queue operations. Developed as part of a data structures assignment.
+- **Collaboration:** This project was done in collaboration with student Ella Bar.
+- **Repo:** [Binomial Heap – DataStructuresE02](https://github.com/LiorTsemah/DataStructuresE02)
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [lior-tsemah](https://www.linkedin.com/in/lior-tsemah-625758377/)  
+- **GitHub:** [LiorTsemah](https://github.com/LiorTsemah/portfolio)
+
+
+---
