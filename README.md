@@ -38,7 +38,7 @@ Here you can find a selection of academic projects I've developed during my Comp
 
 ---
 
-Thanks for visiting my profile!
+
 
 ## 📫 Get in Touch
 
@@ -47,3 +47,6 @@ Thanks for visiting my profile!
 
 
 ---
+
+
+Thanks for visiting my profile!
